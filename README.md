@@ -11,6 +11,9 @@ cv2
 numpy
 
 
+# FDDB
+![discROC](https://github.com/wincle/NPD_python/blob/master/discROC-compare.png?raw=true)
+
 # License
 
 BSD 3-Clause
