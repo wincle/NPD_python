@@ -1,8 +1,8 @@
 # NPD
 
-The python implementation of A Fast and Accurate Unconstrained Face Detector. 
+The pure python implementation of A Fast and Accurate Unconstrained Face Detector. 
 
-The model is training by the C++ Implemention, the python code only implement detection code.
+The model is training by the C++ Implemention, the python code only implement detection code and the speed is very slow.
 
 
 # Requirement
@@ -22,7 +22,7 @@ BSD 3-Clause
 
 https://github.com/wincle/NPD
 
-(It's much faster  than C++ implementisn, and support training)
+(It's much faster than python implementisn, and support training)
 
 # References
 
